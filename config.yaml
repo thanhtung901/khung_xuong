@@ -1,0 +1,8 @@
+#config camera truoc man hinh
+khoang_cach: 50
+chat_id: 1942368034
+id_bot: 'camera_distance_bot'
+thoi_gian_canh_bao: 5 # sau 5p la cảnh báo
+hen_gio_tat: 10 # sau 10p la tat
+
+
