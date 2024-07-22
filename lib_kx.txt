@@ -1,0 +1,8 @@
+opencv-python==4.8.1.78
+gTTS==2.3.2
+pyTelegramBotAPI==4.6.0
+telebot==0.0.5
+PyYAML==6.0.1
+pyglet==2.0.10
+mediapipe==0.10.9
+pydub==0.25.1
